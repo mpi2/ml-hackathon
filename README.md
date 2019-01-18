@@ -1,4 +1,6 @@
 
+[![Join the chat at https://gitter.im/ml-impc-hackathon/community](https://badges.gitter.im/ml-impc-hackathon/community.svg)](https://gitter.im/ml-impc-hackathon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # ml-hackathon
 This repository is meant for the participants of the IMPC machine learning hackathon hosted in Munich Jan 2019 to share ideas, track topics, create issues,manage related projects, publish materials, etc.
 
@@ -28,4 +30,3 @@ Ideally, a successful outcome from this hackathon will be:
 *	a list of ideas of where and how we can apply machine learning to the IMPC dataset; 
 *	an understanding of the current landscape of ML approaches being applied in the IMPC community;
 *	good working relationships and which can continue as the nucleus of a ML-focused subgroup of the data analysis WG.
-
