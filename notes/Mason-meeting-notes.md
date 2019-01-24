@@ -1,8 +1,8 @@
 20190123 // IMPC hackathon
---------------------------
+==========================
 
 DAY 1
-=====
+-----
 
 1) Hamed
   - Essential genes
@@ -51,11 +51,11 @@ Minutes from IDG breakout
   - 50 genes per phenotype (MP Term) required to meet the cutoff to be included in the analysis
   - blind.predictions in the list of files is not ordered, but the highest p-values are the candidate genes for that phenotype (that's not already in OMIM if it's a disease)
 
-Text mining resource: https://diseases.jensinlab.org
+Text mining resource: https://diseases.jensenlab.org
 
 
 DAY 2
-=====
+-----
 
 ... Continued with discussions from the previous day in the working groups ...
 
