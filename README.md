@@ -1,3 +1,8 @@
+Thank you all for a fantastic hackathon
+---------------------------------------
+
+![photos/photos_day2/P1241086.jpg](photos/photos_day2/P1241086.jpg)
+January 2019
 
 [![Join the chat at https://gitter.im/ml-impc-hackathon/community](https://badges.gitter.im/ml-impc-hackathon/community.svg)](https://gitter.im/ml-impc-hackathon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
